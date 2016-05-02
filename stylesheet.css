@@ -61,3 +61,29 @@ li {
 	margin: 0 0 36px;
 	
 }
+#spotify {
+	position: absolute;
+	display: block;
+	right: 0px;
+	top:0px;
+
+}
+
+
+header {
+	position: absolute;
+	width: 75%;
+	left: 0px;
+}
+#cont2 {
+	position: absolute;
+	width: 75%;
+	left: 0px;
+	top:90px;	
+}
+
+li:hover {
+	border-left: 2px solid #00f28f;
+
+	transition: border-color 0.1s;
+}
